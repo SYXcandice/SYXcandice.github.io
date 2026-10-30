@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07cd55e6.css",
-    "main.js": "/static/js/main.d1e60f62.js",
+    "main.js": "/static/js/main.dd79fbc6.js",
     "static/media/VR2024.png": "/static/media/VR2024.df76948f814d4d0f6458.png",
     "static/media/Notation.png": "/static/media/Notation.27eef69f5add6237dd3e.png",
     "static/media/Personal.jpg": "/static/media/Personal.57d734c10d74d8d083d4.jpg",
@@ -20,10 +20,10 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
     "main.07cd55e6.css.map": "/static/css/main.07cd55e6.css.map",
-    "main.d1e60f62.js.map": "/static/js/main.d1e60f62.js.map"
+    "main.dd79fbc6.js.map": "/static/js/main.dd79fbc6.js.map"
   },
   "entrypoints": [
     "static/css/main.07cd55e6.css",
-    "static/js/main.d1e60f62.js"
+    "static/js/main.dd79fbc6.js"
   ]
 }
